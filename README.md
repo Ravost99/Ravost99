@@ -1,4 +1,4 @@
-### <div align="center">I'm Daniel, a programmer and debugger. 👨‍💻</div>  
+### <div align="center">I'm Daniel, a 14 year old programmer and debugger. 👨‍💻</div>  
   
 
 - 🟢 I’m currently working on [Ping](https://github.com/Ravost99/ping).  
