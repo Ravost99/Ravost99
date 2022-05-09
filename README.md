@@ -80,17 +80,16 @@
 
 
 ## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravost99&hide_border=true&layout=compact" align="center" /></div>  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ravost99&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravost99&hide_border=true&layout=compact" align="left" />  
-
-<br>  
-  
 
 <br/>  
 <!--
-![Profile views counter](https://komarev.com/ghpvc/?username=Ravost99&&style=flat-square)  
--->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ravost99&&style=flat-square" align="center" />
+</div>-->
+
 <br />
 
 ----
