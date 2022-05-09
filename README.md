@@ -72,9 +72,6 @@
 <div align="center">
 <a href="https://github.com/Ravost99" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://replit.com/@Ravost" target="_blank">
-<img src=https://repl.it/badge/github/Ravost99/Ravost99 alt=github style="margin-bottom: 5px;" />
 </a>
 </div>  
   
