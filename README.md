@@ -84,23 +84,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravost99&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
+<br>  
   
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ravost99&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
+<!-->
+![Profile views counter](https://komarev.com/ghpvc/?username=Ravost99&&style=flat-square)  
+-->
 <br />
 
 ----
