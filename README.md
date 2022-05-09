@@ -1,7 +1,7 @@
 ### <div align="center">I'm Daniel, a 14 year old programmer and debugger. 👨‍💻</div>  
   
 
-- 🟢 I’m currently working on [Ping](https://github.com/Ravost99/ping).  
+- 🟢 I’m currently working on [Ping](https://github.com/Ravost99/ping) and [Cake Baker](https://github.com/Ravost99/cake-baker).  
   
 
 - 📕 I’m currently learning C++ and Brainf**k.  
